@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 🏞 Hobbies: **Hiking, Room Escape Games, Gaming (Zelda, Mario, etc.)**
 
 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ningchen-liang-62756b23a/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-AAbiAbi-181717?style=flat-square&logo=github)](https://github.com/AAbiAbi)
 
 
