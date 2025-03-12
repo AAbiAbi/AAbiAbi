@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Abigail!</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Game Developer |Open Source Contributor</h3>
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+
 - 🎓 Master’s in Computer Science @ Santa Clara University
 - 🔭 Currently working at **Meta** as a **Software Engineer**
 - 🌱 Exploring **AI DevX**
@@ -41,13 +43,12 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAbiAbi&layout=compact&theme=tokyonight)
 
-![visitors](https://komarev.com/ghpvc/?username=AAbiAbi&color=blue)
 
 ### 🏆 My Notable Projects:
 - 🛠 **[NubeStore](https://github.com/AAbiAbi/NubeStore)**: A cloud-based purchase platform built with **React + Golang**
 - 📺 **[Twitch+](https://github.com/AAbiAbi/TwitchPlus)**: A personalized Twitch recommendation engine using **Spring Boot + MySQL + AWS**
 - 🏠 **[Home Automation System](https://github.com/AAbiAbi/SmartHomeControl)**: Microservices architecture for home automation using **Docker & Kubernetes**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+
 
 ![visitors](https://komarev.com/ghpvc/?username=AAbiAbi&color=blue)
