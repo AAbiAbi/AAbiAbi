@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ### 🏆 My Notable Projects:
-- 🛠 **[NubeStore](https://github.com/AAbiAbi/NubeStore_FrontEnd)**: A cloud-based purchase platform built with **React + Golang**
+- 🛠 **[NubeStore](https://github.com/AAbiAbi/NubeStore_BackEnd)**: A cloud-based purchase platform built with **React + Golang**
 - 📺 **[Twitch+](https://github.com/AAbiAbi/RecommendTwitch)**: A personalized Twitch recommendation engine using **Spring Boot + MySQL + AWS**
 - 🏠 **[Home Automation System](https://github.com/AAbiAbi/SmartHomeControl)**: Microservices architecture for home automation using **Docker & Kubernetes**
 
